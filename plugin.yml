@@ -1,0 +1,5 @@
+name: EmptyWorld
+api: 4.0.0
+main: emptyworld\EmptyWorld
+version: 1.0
+author: xxFLORII
